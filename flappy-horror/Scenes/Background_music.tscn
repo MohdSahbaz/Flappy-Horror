@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://ddpy0kmj8rb6i"]
+
+[ext_resource type="AudioStream" uid="uid://bnlbrvyqypiml" path="res://Sounds/Haunting Horror Theme Music.mp3" id="1_udsvu"]
+
+[node name="BackgroundMusic" type="AudioStreamPlayer2D"]
+process_mode = 3
+stream = ExtResource("1_udsvu")
+volume_db = 13.0
+autoplay = true
