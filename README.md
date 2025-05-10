@@ -23,7 +23,7 @@ You're a ghost trapped in a cursed realm. To break free, you must collect soul o
 
 ## 🔗 Links
 
-- **Play it on Game Jolt:** [Flappy Horror]()
+- **Play it on Game Jolt:** [Flappy Horror](https://gamejolt.com/games/flappyhorror/992320)
 - **Source Code:** [GitHub Repository](https://github.com/MohdSahbaz/Flappy-Horror)
 
 ## 📦 Installation (Development)
@@ -32,3 +32,4 @@ You're a ghost trapped in a cursed realm. To break free, you must collect soul o
 2. Clone the repository:
    ```bash
    git clone https://github.com/MohdSahbaz/Flappy-Horror.git
+   ```
